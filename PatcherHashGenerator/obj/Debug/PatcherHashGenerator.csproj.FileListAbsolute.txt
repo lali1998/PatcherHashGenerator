@@ -1,0 +1,9 @@
+c:\users\lajos\documents\visual studio 2013\Projects\PatcherHashGenerator\PatcherHashGenerator\bin\Debug\PatcherHashGenerator.exe.config
+c:\users\lajos\documents\visual studio 2013\Projects\PatcherHashGenerator\PatcherHashGenerator\bin\Debug\PatcherHashGenerator.exe
+c:\users\lajos\documents\visual studio 2013\Projects\PatcherHashGenerator\PatcherHashGenerator\bin\Debug\PatcherHashGenerator.pdb
+c:\users\lajos\documents\visual studio 2013\Projects\PatcherHashGenerator\PatcherHashGenerator\obj\Debug\PatcherHashGenerator.csprojResolveAssemblyReference.cache
+c:\users\lajos\documents\visual studio 2013\Projects\PatcherHashGenerator\PatcherHashGenerator\obj\Debug\PatcherHashGenerator.Form1.resources
+c:\users\lajos\documents\visual studio 2013\Projects\PatcherHashGenerator\PatcherHashGenerator\obj\Debug\PatcherHashGenerator.Properties.Resources.resources
+c:\users\lajos\documents\visual studio 2013\Projects\PatcherHashGenerator\PatcherHashGenerator\obj\Debug\PatcherHashGenerator.csproj.GenerateResource.Cache
+c:\users\lajos\documents\visual studio 2013\Projects\PatcherHashGenerator\PatcherHashGenerator\obj\Debug\PatcherHashGenerator.exe
+c:\users\lajos\documents\visual studio 2013\Projects\PatcherHashGenerator\PatcherHashGenerator\obj\Debug\PatcherHashGenerator.pdb
